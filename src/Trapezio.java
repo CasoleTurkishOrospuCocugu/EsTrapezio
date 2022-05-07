@@ -13,7 +13,7 @@ public class Trapezio {
 
 private double baseMag, baseMin, altezza;
 
-/**
+/** 
  * 
  * @param baseMag in cm
  * @param baseMin in cm
